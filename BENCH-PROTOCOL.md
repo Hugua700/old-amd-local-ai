@@ -1,3 +1,5 @@
+> [English](BENCH-PROTOCOL.md) | [中文](BENCH-PROTOCOL.zh.md)
+
 # A comparison protocol you can trust
 
 Sixth companion. The other documents report single measurements. This one is the **method** used to

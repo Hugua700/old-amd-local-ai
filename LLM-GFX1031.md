@@ -1,3 +1,5 @@
+> [English](LLM-GFX1031.md) | [中文](LLM-GFX1031.zh.md)
+
 # Local LLMs on a gfx1031 card: the config, the VRAM budget, and the failure that looks like a bug
 
 Third companion to the main README. Same machine: **RX 6800M (gfx1031, RDNA2 mobile, 12272 MB

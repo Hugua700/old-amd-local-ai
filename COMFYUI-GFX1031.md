@@ -1,3 +1,5 @@
+> [English](COMFYUI-GFX1031.md) | [中文](COMFYUI-GFX1031.zh.md)
+
 # ComfyUI on a gfx1031 card: what runs, and what it costs in watts
 
 Companion to the main README, same machine: **RX 6800M (gfx1031, RDNA2 mobile, 12272 MB VRAM)**,

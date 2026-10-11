@@ -1,3 +1,5 @@
+> [English](TWO-MACHINE-SPLIT.md) | [中文](TWO-MACHINE-SPLIT.zh.md)
+
 # Two machines, one job: keep the old AMD card for the LLM and generate elsewhere
 
 Fourth companion to the main README. The idea is simple and it solved the biggest practical problem

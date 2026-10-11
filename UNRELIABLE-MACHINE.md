@@ -1,3 +1,5 @@
+> [English](UNRELIABLE-MACHINE.md) | [中文](UNRELIABLE-MACHINE.zh.md)
+
 # Working on a machine that can vanish
 
 Fifth companion to the main README. This one is not about AMD specifically. It is what changed in

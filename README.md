@@ -1,3 +1,5 @@
+> [English](README.md) | [中文](README.zh.md)
+
 # Local LLMs and diffusion on an old AMD Radeon — measured, reproducible notes
 
 > Companion documents:
