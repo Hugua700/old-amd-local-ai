@@ -3,6 +3,7 @@
 > Companion documents:
 > * **[ComfyUI on a gfx1031 card: what runs, and what it costs in watts](COMFYUI-GFX1031.md)**
 > * **[Local LLMs on a gfx1031 card: the config, the VRAM budget, and the failure that looks like a bug](LLM-GFX1031.md)**
+> * **[Two machines, one job](TWO-MACHINE-SPLIT.md)** (with a ready-to-run client, comfy_remote.py)
 
 Field notes from one machine that the ecosystem does not officially serve:
 **AMD Radeon RX 6800M, `gfx1031`, RDNA2 mobile, Windows 11**, one 240 W adapter.
